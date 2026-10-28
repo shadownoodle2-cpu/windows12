@@ -1,2 +1,1 @@
-# windows12
-.
+#What is this exe thing? This application is Windows 12.exe. It is a dangerous virus, and opening the executable causes your computer to change its wallpaper on the next boot. After one minute,  it suddenly  Dies and melt screen.   So, if you don't want your computer to be destroyed, don't run this malware. I'm not responsible for any damages; you are responsible for any damage you cause.   Please do not use this as a prank.
